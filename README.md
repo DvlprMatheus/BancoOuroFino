@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com o intuito de criar um caixa eletrônico de um 
 - [Licença](#licença)
 
 ## Como Usar
-Esse material é completamente para estudo, é liberado para o uso coletivo e para quem quiser aprender mais sobre a linguagem.
+Esse material é completamente para estudo, é liberado para o uso coletivo e para quem quiser aprender mais sobre a linguagem. Ao fazer o download do projeto e executar no editor de códigos-fontes de sua escolha, a senha que libera o "funcionário" é <b>3589</b>.
 
 ## Contribuição
 O material é completamente livre e aberto para contribuições, adicionais de novas funcionalidades, maneiras diferentes de realizar e tudo mais.
