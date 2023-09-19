@@ -16,10 +16,7 @@ O material é completamente livre e aberto para contribuições, adicionais de n
 
 ## Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+![Tecnologias](https://skillicons.dev/icons?i=html,javascript)
 
 ## Licença
 Lincença do MIT utilizada para este projeto.
